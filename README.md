@@ -24,5 +24,5 @@ print(shutil.which("uv"))```
 
 
 ## use this command from your virtual env
-```C:\Users\dell1\OneDrive\Desktop\fastapidumy\agentic ai for trip planning\AI_Trip_Planner\env\Scripts\activate.bat```
+```"C:\Users\dell1\OneDrive\Desktop\fastapidumy\agentic ai for trip planning\AI_Trip_Planner\env\Scripts\activate.bat"```
 
